@@ -1,18 +1,20 @@
+​
+🧠 Awesome-ChatGPT
+  
+
 ChatGPT资料汇总学习，持续更新......
 ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程上的里程碑事件，还是噱头炒作，持续关注，让时间流淌~
 
-ChatGPT
+ 
 
- 
 交流共享
 【1】欢迎👏🏻👏🏻👏🏻加入ChatGP交流群，与AI领域专家和各行各业的ChatGPT爱好者一起交流碰撞💥💥💥！不管你是专业人士还是爱好者，都欢迎加入群体！目前1/2/3群都满500人，4群需要邀请进入
 【2】创建付费知识星球，目前处于已正式运营，已有100+朋友加入，星球有「星球专属vip社群」、分享实时信息、技术实践、项目落地、商业变现等。
 【3】帮朋友推荐一个AI商业解析项目，截止目前，已更新40篇文章，订阅者3000+，不是免费🆓的，需要一顿饭钱,之前价格22，现在价格36，内容持续更新,价格持续上涨......
 
 二维码加群	拉你入群(备注ChaGPT-github)	加入星球(更多优质内容)	AI商业解析项目
-			
 飞书文档
-飞书文档【『紧跟ChatGPT风向』持续更新中】，包含ChatGPT、百度文心一言、微软 New Bing、谷歌-Bard、AI绘画等相关基础问题和资料学习，文档地址：https://szqxz4m7fs.feishu.cn/docx/UhuedqlJVo7rl9xOKfuchSQqn4g
+飞书文档【『紧跟ChatGPT风向』持续更新中】，包含ChatGPT、百度文心一言、微软 New Bing、谷歌-Bard、AI绘画等相关基础问题和资料学习，文档地址：Docs
 
 GPT-4
 【GPT-4】GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？
@@ -59,7 +61,7 @@ GPT-4
 【LaMda】LaMDA: Language Models for Dialog Applications
 
 三方代码实现
-【代码实现】 ColossalAI hpcaitech/ColossalAI/ChatGPT , 👍 如何使用可参考:博客介绍
+【代码实现】 ColossalAI hpcaitech/ColossalAI/ChatGPT , 👍 如何使用可参考:博客介绍
 
 资料
 【PDF资料】ChatGPT-真格基金分享.pdf
@@ -84,7 +86,7 @@ GPT-4
 【技术解读】从零实现ChatGPT——RLHF技术笔记
 【技术解读】张俊林-通向AGI之路：大型语言模型（LLM）技术精要
 【技术解读】ChatGPT/InstructGPT详解
-【技术解读】 赛尔笔记 | 浅析ChatGPT的原理及应用
+【技术解读】 赛尔笔记 | 浅析ChatGPT的原理及应用
 【技术解读】抱抱脸：ChatGPT背后的算法——RLHF | 附12篇RLHF必刷论文(论文在上面资料中)
 【技术解读】ChatGPT背后人工智能算法全部由国外公司发明
 【技术解读】万字拆解！追溯ChatGPT各项能力的起源
@@ -101,8 +103,8 @@ GPT-4
 
 中文ChatGPT
 【复旦大学】资讯｜复旦团队发布国内首个类ChatGPT模型MOSS，邀公众参与内测
-【复旦Moss】https://moss.fastnlp.top/
-【复旦Moss Github】https://github.com/txsun1997/MOSS
+【复旦Moss】MOSS
+【复旦Moss Github】GitHub - txsun1997/MOSS: MOSS is a conversational language model like ChatGPT.
 
 Github-ChatGPT
 【Github】在微信上迅速接入 ChatGPT，让它成为你最好的助手！
@@ -153,20 +155,24 @@ Github-GPT系列
 【谷歌CEO】An important next step on our AI journey
 【知乎问答】OpenAI 的 ChatGPT 会怎样影响国内的 NLP 研究？
 【量子位】ChatGPT偷家：Stack Overflow正被程序员抛弃，访问量一个月骤降3200W
-【ChatGPT之父】 对话ChatGPT之父！AI会改变什么？不会改变什么
+【ChatGPT之父】 对话ChatGPT之父！AI会改变什么？不会改变什么
 【知乎问答】ChatGPT 最容易取代的是哪些领域？
 
 欢迎共建
-【👬🏻】、欢迎👏🏻 Star ⭐️⭐️⭐️⭐️⭐️ && 提交 Pull requests 👏🏻👏🏻👏🏻
+【👬🏻】、欢迎👏🏻 Star ⭐️⭐️⭐️⭐️⭐️ && 提交 Pull requests 👏🏻👏🏻👏🏻
 
 交流共享
 群满加我微信(备注github-ChatGPT), 行路难，感谢老板随意赏~
 
- 
+ 
 
 关于我
 大林，NLP/知识图谱算法工程师
 v: dalinvip2023
 
 Star History
-Star History Chart
+⚠️声明
+以上资料来自网络整理，供大家学习参考，如有侵权，麻烦联系我删除！
+v: dalinvip2023
+
+​
